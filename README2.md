@@ -1,6 +1,10 @@
 # CCA175
 CCA175_Preparation
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 Required Skills
 Transform, Stage, and Store
 Convert a set of data values in a given format stored in HDFS into new data values or a new data format and write them into HDFS.
@@ -28,3 +32,7 @@ Configuration
 This is a practical exam and the candidate should be familiar with all aspects of generating a result, not just writing code.
 
 Supply command-line options to change your application configuration, such as increasing available memory
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
